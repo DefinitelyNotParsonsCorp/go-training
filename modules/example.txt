@@ -1,0 +1,5 @@
+mkdir /tmp/go
+export GOPATH=/tmp/go
+export GOPROXY=http://127.0.0.1/
+
+cd /root/go/pkg/mod/cache/download/
